@@ -1,0 +1,24 @@
+.red {
+    background-color: rgb(228, 140, 140);
+    color: #000000;
+}
+
+.yellow {
+    background-color: rgb(243, 228, 145);
+    color: #000000;
+}
+
+.grey {
+    background-color: rgb(144, 144, 144);
+    color: #000000;
+    border-bottom: 2px solid #000000;
+}
+
+span {
+    display: inline-block;
+    margin: 2px;
+    width: auto;
+    padding-inline-end: 10px;
+    padding-inline-start: 10px;
+    font-weight: 500;
+}
